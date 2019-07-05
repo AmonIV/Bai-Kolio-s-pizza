@@ -1,1 +1,3 @@
-1 1 2 Water 50 OceanMan
+1 1 2 50
+Water
+Ocean man
